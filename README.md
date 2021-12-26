@@ -1,5 +1,5 @@
-- 👋 Hi, I’m krissy
-- 👀 I’m interested in technology and video games :)
+- 👋 Hi, I’m Kristen
+- 👀 I’m interested in technology and video games
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me: Discord - krissy#6987
