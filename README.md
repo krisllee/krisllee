@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kristen
 - 👀 I’m interested in technology and video games
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: Email: contact@kristenco.net or Discord: kristen#6987
+- 📫 How to reach me: Email: contact@kristenco.net
 
 <!---
 - 💞️ I’m looking to collaborate on N/A
