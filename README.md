@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kristen
 - 👀 I’m interested in technology and video games
 - 🌱 I’m currently learning Python and C++
-- 📫 How to reach me: Email: contact@kristenco.net
+- 📫 How to reach me: contact@kristenco.net
 
 <!---
 - 💞️ I’m looking to collaborate on N/A
