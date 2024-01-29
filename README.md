@@ -1,5 +1,5 @@
 # Welcome!
-**Hi, I'm Kristen!** I'm currently an international student at Wake Technical Community College in the Computer Programming and Development program. I have a strong interest in Python, HTML, CSS, and Javascript. I've also been actively learning C++ and am currently in the advanced course for it.
+**Hi, I'm Kristen!** I have an associate's degree in Computer Programming and Development as well as Technical Support. I am attending WGU as a Cybersecurity student to get my bachelor's degree, followed by my master's degree. I have a strong interest mostly in Python and I code for fun.
 
 
 <!---
